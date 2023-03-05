@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCRUDCadastroFormSQLCe", "ProjetoCRUDCadastroFormSQLCe.csproj", "{C22A1F14-F1B2-4C79-895F-CF3B9234C292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22A1F14-F1B2-4C79-895F-CF3B9234C292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22A1F14-F1B2-4C79-895F-CF3B9234C292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22A1F14-F1B2-4C79-895F-CF3B9234C292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22A1F14-F1B2-4C79-895F-CF3B9234C292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFCB607F-4FFE-4B20-8428-873B6FC81E8C}
+	EndGlobalSection
+EndGlobal
